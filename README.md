@@ -4,9 +4,7 @@
 
 # ViprorqiV
 
-### Cybersecurity • Security Engineering • Systems Programming
-
-`Go` • `Rust` • `C++` • `Linux` • `Network Security`
+### Cybersecurity Student
 
 <pre>
 ┌─[nam@security-lab]─[~]
