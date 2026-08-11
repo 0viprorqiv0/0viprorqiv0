@@ -42,6 +42,15 @@ EXPLORING   Rust · Cloud Security · Security Automation
 
 ---
 
+
+### `> profiles`
+
+<p align="center">
+  <a href="https://leetcode.com/u/ViprorqiV/">
+    <img src="https://img.shields.io/badge/LeetCode-ViprorqiV-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+---
 ## `> projects`
 
 ```text
