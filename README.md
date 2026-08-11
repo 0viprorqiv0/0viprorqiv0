@@ -31,13 +31,25 @@ EXPLORING   Rust · Cloud Security · Security Automation
 
 ## `> arsenal`
 
+### Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+### Frameworks & Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -60,16 +72,23 @@ EXPLORING   Rust · Cloud Security · Security Automation
 
 ## `> projects`
 
-```text
-🍯 Hive Honeypot Network
-   Go · Network Security · Threat Analysis
+### 🐝 [BeeLearn — AI-Powered LMS](https://github.com/0viprorqiv0/eng_project)
 
-🔎 Autonomous Web Recon
-   AI Agent · Web Security · Automation
+`React 19` · `TypeScript` · `Laravel 12` · `MySQL` · `Gemini API`
 
-☁️ Cloud Security Dashboard
-   Cloud Security · Compliance · Go
-```
+Full-stack learning management system with **role-based dashboards, interactive learning features, placement testing and AI assistant integration**.
+
+### 🖥️ [Windows System Monitor](https://github.com/0viprorqiv0/System_monitor)
+
+`C++` · `Win32 API` · `PDH` · `IP Helper` · `GDI`
+
+Native Windows monitoring application for **real-time CPU, RAM, network and process analytics** with a taskbar overlay and floating desktop widget.
+
+### 🔐 [SecureVote — Cryptographic E-Voting](https://github.com/MRXz194/E-voting)
+
+`Python` · `Flask` · `SQLite` · `ElGamal` · `RSA Blind Signatures` · `HMAC-SHA256`
+
+Team cryptography project demonstrating **anonymous credentials, encrypted ballots, homomorphic tallying and verifiable voting**.
 
 ---
 
