@@ -42,15 +42,22 @@ EXPLORING   Rust · Cloud Security · Security Automation
 
 ---
 
+## `> coding_activity`
 
-### `> profiles`
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/ViprorqiV/">
-    <img src="https://img.shields.io/badge/LeetCode-ViprorqiV-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<a href="https://leetcode.com/u/ViprorqiV/">
+  <img
+    width="500"
+    src="https://leetcard.jacoblin.cool/ViprorqiV?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap"
+    alt="ViprorqiV LeetCode Stats"
+  />
+</a>
+
+</div>
+
 ---
+
 ## `> projects`
 
 ```text
@@ -87,6 +94,7 @@ focus:
 </div>
 
 ---
+
 ## `> contribution_shooter`
 
 <div align="center">
