@@ -21,7 +21,7 @@ jobs:
       - name: Generate contribution shooter
         uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GH_PAT }}
           username: 0viprorqiv0
           output-path: game.gif
           strategy: random
