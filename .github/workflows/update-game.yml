@@ -1,34 +1,29 @@
 name: Update Space Shooter Game
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"   # chạy mỗi 15 phút
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
-
-concurrency:
-  group: space-shooter-update
-  cancel-in-progress: true
 
 jobs:
   update-game:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout profile repository
+      - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 2
 
-      - name: Generate contribution shooter
+      - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: 0viprorqiv0
           output-path: game.gif
-          strategy: random
-          fps: 60
-          no-amend: true
+          strategy: column
+          fps: 40
           commit-message: "chore: update contribution shooter"
